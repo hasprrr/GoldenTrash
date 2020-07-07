@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463947093129",
+    "firebase_url": "https://goldentrash-2aaf0.firebaseio.com",
+    "project_id": "goldentrash-2aaf0",
+    "storage_bucket": "goldentrash-2aaf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463947093129:android:c02ea58cf088fb0d5d2258",
+        "android_client_info": {
+          "package_name": "com.abhay.golden_trash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463947093129-ke8s45psm77uh1kv732v8pbpq5dqvbfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhay.golden_trash",
+            "certificate_hash": "bdb31e7bfd29d885208bdd8d6322a7f226b99958"
+          }
+        },
+        {
+          "client_id": "463947093129-seul633fk2fnav5o1k58bpim3onvdbf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kLmlXUOGLkeiaJEV9mIvWEIj4wpTJAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463947093129-seul633fk2fnav5o1k58bpim3onvdbf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
