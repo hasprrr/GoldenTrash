@@ -1,0 +1,45 @@
+name: golden_trash
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.15.5+3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  
+
+  uses-material-design: true
+  
+
+  assets:
+    - assets/images/
+  
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/.18456.otf
+          weight: 700
+    - family: Flood Std
+      fonts:
+        - asset: assets/fonts/.18085.otf
+          style: italic
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/.15930.otf
+          weight: 700
+        - asset: assets/fonts/.15931.otf
